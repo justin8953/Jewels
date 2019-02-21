@@ -5,6 +5,9 @@
 [Bb]uilds/
 [Ll]ogs/
 
+
+# Ignore Atom projectsetting
+ProjectSettings/
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
 
